@@ -1,0 +1,10 @@
+C:\Users\Sebo\source\repos\PersembeGunu17AralikUyg\PersembeGunu17AralikUyg\bin\Debug\PersembeGunu17AralikUyg.exe.config
+C:\Users\Sebo\source\repos\PersembeGunu17AralikUyg\PersembeGunu17AralikUyg\bin\Debug\PersembeGunu17AralikUyg.exe
+C:\Users\Sebo\source\repos\PersembeGunu17AralikUyg\PersembeGunu17AralikUyg\bin\Debug\PersembeGunu17AralikUyg.pdb
+C:\Users\Sebo\source\repos\PersembeGunu17AralikUyg\PersembeGunu17AralikUyg\obj\Debug\PersembeGunu17AralikUyg.csprojAssemblyReference.cache
+C:\Users\Sebo\source\repos\PersembeGunu17AralikUyg\PersembeGunu17AralikUyg\obj\Debug\PersembeGunu17AralikUyg.Form1.resources
+C:\Users\Sebo\source\repos\PersembeGunu17AralikUyg\PersembeGunu17AralikUyg\obj\Debug\PersembeGunu17AralikUyg.Properties.Resources.resources
+C:\Users\Sebo\source\repos\PersembeGunu17AralikUyg\PersembeGunu17AralikUyg\obj\Debug\PersembeGunu17AralikUyg.csproj.GenerateResource.cache
+C:\Users\Sebo\source\repos\PersembeGunu17AralikUyg\PersembeGunu17AralikUyg\obj\Debug\PersembeGunu17AralikUyg.csproj.CoreCompileInputs.cache
+C:\Users\Sebo\source\repos\PersembeGunu17AralikUyg\PersembeGunu17AralikUyg\obj\Debug\PersembeGunu17AralikUyg.exe
+C:\Users\Sebo\source\repos\PersembeGunu17AralikUyg\PersembeGunu17AralikUyg\obj\Debug\PersembeGunu17AralikUyg.pdb
